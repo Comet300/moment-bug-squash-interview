@@ -1,3 +1,9 @@
+This repository is a fork of Moment.js (https://github.com/moment/moment),
+altered for use as a technical interview exercise. It is not affiliated with
+or endorsed by the Moment.js maintainers.
+
+The original Moment.js source code is licensed under the MIT License:
+
 Copyright (c) JS Foundation and other contributors
 
 Permission is hereby granted, free of charge, to any person
